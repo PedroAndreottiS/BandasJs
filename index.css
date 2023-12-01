@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    justify-content: center;
+    font-weight:bolder;
+    background-color: rgb(20, 220, 255);
+    color: rgb(253, 253, 253);
+    border-width: 5px;
+    border-color: rgb(182, 182, 182);
+    border-style: solid;
+    box-shadow: 5px 5px 5px 10px  rgb(255, 255, 255);
+    margin-top: 0px;
+    font-family: Rowdies, display ;
+    text-shadow:  2px 2px 2px rgb(44, 1, 1);
+}
+
