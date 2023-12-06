@@ -11,5 +11,14 @@ const iniciar = async() => {
     console.log('depois de fetch');
   };
   
+
+
+
+
+
+
+
+
+
   document.addEventListener('DOMContentLoaded', iniciar);
 
